@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsIndikatorUpdate" value="name:id_indikator;datatype:int,name:nama_indikator;datatype:string,name:nilai;datatype:real" />
+</info>

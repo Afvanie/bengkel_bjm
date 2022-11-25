@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsBobotDelete" value="name:id_bobot;datatype:int,name:kd_gejala;datatype:string,name:kd_penyakit;datatype:string,name:bobot;datatype:real" />
+</info>

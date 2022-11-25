@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsHasilDelete" value="name:id_hasil;datatype:int,name:id_pasien;datatype:string,name:nama;datatype:string,name:kelamin;datatype:string,name:umur;datatype:string,name:alamat;datatype:string,name:email;datatype:string,name:kd_penyakit;datatype:string,name:tanggal;datatype:string" />
+</info>

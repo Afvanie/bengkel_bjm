@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_rsTampilDataPenyakit" value="name:kd_penyakit;datatype:string,name:nama_penyakit;datatype:string,name:definisi;datatype:blob,name:solusi;datatype:blob" />
+</info>
